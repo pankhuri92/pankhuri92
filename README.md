@@ -6,7 +6,7 @@ I'm a CSE Undergrad learning and growing in C++, C, Python, and frontend technol
 ## 🌱 Looking to collaborate 
 I am open to collaboration on exciting projects. Whether it's coding, web development, or AI-related, count me in!
 
-## 🔗 Links
+## 🌐 Social Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankhuri-asthana)
 [![gitlab](https://img.shields.io/badge/GitLab-292961?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/pankhuri_92)
 
