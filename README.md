@@ -4,6 +4,7 @@
 ## 🚀 About Me
 I'm a CSE Undergrad learning and growing in C++, C, Python, and web development technologies. Currently diving into the world of Data Structures and Algorithms, I am also expanding my skills in web development, particularly with JS, CSS, HTML, and PHP. My curiosity extends to the realms of artificial intelligence, and I'm always eager to explore new opportunities and challenges.
 
+
 ## 💻 Skills
 [![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 [![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
@@ -23,15 +24,19 @@ I'm a CSE Undergrad learning and growing in C++, C, Python, and web development 
 [![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 
 
+
 ## 🌱 Looking to collaborate 
 I am open to collaboration on exciting projects. Whether it's coding, web development, or AI-related, count me in!
+
 
 ## 🌐 Socials
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankhuri-asthana)
 [![gitlab](https://img.shields.io/badge/GitLab-292961?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/pankhuri_92)
 
 
+
 ![Pankhuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankhuri92&theme=catppuccin_latte&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 <!--- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) --->
