@@ -30,6 +30,7 @@ I am open to collaboration on exciting projects. Whether it's coding, web develo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankhuri-asthana)
 [![gitlab](https://img.shields.io/badge/GitLab-292961?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/pankhuri_92)
 
+![Pankhuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankhuri92&theme=dark&show_icons=true)
 
 
 <!--- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) --->
