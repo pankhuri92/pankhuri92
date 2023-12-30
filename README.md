@@ -36,7 +36,7 @@ I am open to collaboration on exciting projects. Whether it's coding, web develo
 
 
 ![Pankhuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankhuri92&theme=catppuccin_latte&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankhuri92&layout=compact)
 
 
 <!--- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) --->
