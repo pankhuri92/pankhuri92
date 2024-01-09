@@ -1,4 +1,4 @@
-<center> # Hi, I’m Pankhuri! </center
+                                                # Hi, I’m Pankhuri!
 
 
 ## 🚀 About Me
