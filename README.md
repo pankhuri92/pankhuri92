@@ -37,7 +37,7 @@ I am open to collaboration on exciting projects. Whether it's coding, web develo
 
 
 ## 📊 GitHub Stats
-![Pankhuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankhuri92&theme=catppuccin_latte&show_icons=true)
+![Pankhuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskan42&theme=catppuccin_latte&show_icons=true)
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankhuri92&layout=donut)](https://github.com/pankhuri92/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankhuri92&layout=compact)
 --->
